@@ -10,3 +10,5 @@ The model is split into training and testing datasets as a measure for cross-val
 According to Bloomberg, a business website, carrier delays exceeded weather delays and delays in the air traffic system for the first time in 2016. Carrier delays are most often caused by a late arriving aircraft (39.2%), a carrier delay such as a lack of flight crew (32.6%), or a national aviation system delay (23.7%). Another more recent element to flight delays are computer glitches that continue to ground thousands of passengers each year ranging giving airlines including Delta Airlines and United Airlines bad PR.
 
 To a lesser degree, the origin airport and the day of the week also play a role in getting a fifteen-minute delay. Flights departing from Los Angeles (LAX) or New York City (LaGuardia) are far more prone to fifteen-minute delays than smaller market airports such as Cincinnati or San Diego.
+
+You can find the entire article here: https://beyondtheaverage.wordpress.com/2017/07/21/what-airport-should-i-fly-out-of/
